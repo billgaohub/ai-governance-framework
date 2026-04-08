@@ -44,12 +44,38 @@
 
 ---
 
+## Real-World Application
+
+This framework is not theoretical.
+
+See how it's applied in a real product:
+
+👉 **IPIPQ** — AI File Auto Organizer  
+https://ipipq.com
+
+> 自动整理下载文件夹，永远不用手动分类  
+> 基于本框架的 L1-L3 认知控制层实现
+
+---
+
+## 演进历程
+
+| 阶段 | 项目 | 状态 | 说明 |
+|------|------|------|------|
+| v0.1 | [teonu-worldmodel](https://github.com/billgaohub/teonu-worldmodel) | 📦 Archived | 元认知调度原型 |
+| v0.2 | [agent-sovereignty-rules](https://github.com/billgaohub/agent-sovereignty-rules) | 📦 Archived | 决策权保护框架 |
+| v0.3 | [smart-file-router](https://github.com/billgaohub/smart-file-router) | 📦 Archived | 文件分类引擎 |
+| v1.0 | **ai-governance-framework** | ✅ Active | 企业级治理框架（本仓库） |
+| v2.0 | [IPIPQ](https://github.com/billgaohub/ipipq) | ✅ Active | 商业化产品实现 |
+
+---
+
 ## 相关项目
 
 | 项目 | 说明 |
 |------|------|
 | [IPIPQ](https://github.com/billgaohub/ipipq) | AI 文件自动整理工具（基于本框架开发） |
-| [AIUCE](https://github.com/billgaohub/AIUCE) | 十一层架构完整实现 |
+| [AIUCE](https://github.com/billgaohub/AIUCE) | 十一层架构完整实现（已归档） |
 
 ---
 
